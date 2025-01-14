@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "House_prediction",
+			"path": "../House_prediction"
+		}
+	],
+	"settings": {}
+}
